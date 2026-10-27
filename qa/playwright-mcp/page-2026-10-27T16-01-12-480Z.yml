@@ -1,0 +1,14 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e5]:
+    - img [ref=f1e6]:
+      - generic [ref=f1e13]: TADCU
+      - generic [ref=f1e14]: in “The Great Sheep Escape”
+      - generic [ref=f1e15]: Ymlaen!
+    - generic [ref=f1e16]: Ep. 1 · production run “test01” · Cwm Twp production unit
+  - generic [ref=f1e17]:
+    - button "▶" [ref=f1e18] [cursor=pointer]
+    - button "⟲" [ref=f1e19] [cursor=pointer]
+    - generic [ref=f1e20] [cursor=pointer]
+    - button "⏭" [ref=f1e21] [cursor=pointer]
+    - generic [ref=f1e22]: Ready — press play
+  - generic [ref=f1e23]: "Keyboard: space = play/pause · → = next scene · 1–7 = jump to a scene · click the bar to scrub by scene."
