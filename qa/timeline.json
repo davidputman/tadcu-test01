@@ -1,0 +1,65 @@
+[
+ {
+  "name": "Title",
+  "dur": 5.5,
+  "subs": [
+   0.8
+  ]
+ },
+ {
+  "name": "The Cottage",
+  "dur": 14.0,
+  "subs": [
+   0.4,
+   5.2,
+   9.2,
+   11.4
+  ]
+ },
+ {
+  "name": "The Empty Field",
+  "dur": 14.0,
+  "subs": [
+   1.0,
+   4.4,
+   8.6,
+   10.8
+  ]
+ },
+ {
+  "name": "The Chase",
+  "dur": 16.0,
+  "subs": [
+   0.6,
+   5.0,
+   9.6,
+   12.0
+  ]
+ },
+ {
+  "name": "Teisen Lap Truce",
+  "dur": 15.0,
+  "subs": [
+   0.8,
+   5.0,
+   10.0,
+   12.0
+  ]
+ },
+ {
+  "name": "Home",
+  "dur": 15.0,
+  "subs": [
+   1.6,
+   6.2,
+   10.8
+  ]
+ },
+ {
+  "name": "The End",
+  "dur": 6.0,
+  "subs": [
+   2.2
+  ]
+ }
+]
